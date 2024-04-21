@@ -1,5 +1,5 @@
-const heading1 = React.createElement("h1", { id: "child1" }, "Heading 1...");
-const heading2 = React.createElement("h2", { id: "child2" }, "Heading 2...");
+const heading1 = React.createElement("h1", { id: "child1" }, "Heading 1..");
+const heading2 = React.createElement("h2", { id: "child2" }, "Heading 2..");
 const parent = React.createElement("div", { id: "parent" }, [
   heading1,
   heading2,
